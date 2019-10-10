@@ -1,2 +1,2 @@
-# Python_learning
-My learnings of Python language.
+# Machine learning and Data Science using Python
+My learnings of Machine learning and Data Science using Python.
